@@ -5,7 +5,7 @@ This includes:
 <br>
 <ul>
 <a href="http://webportfolio.n2k.net:5000" >chat-app written in GOLANG using go-socket.io </a>  its source code is at
-chat-app subfolder of <a href="https://github.com/cndpost/readings/chat-app/"> http://github.com/cndpost/readings </a>
+the /chat-app subfolder of <a href="https://github.com/cndpost/readings/"> http://github.com/cndpost/readings </a>
 </ul>
 
 
