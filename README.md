@@ -7,7 +7,7 @@ This includes:
 <ul>
 <li>
 <a href="http://webportfolio.n2k.net:8080" >Solitaire Game in Javascript and React </a>, its source code is at
-the /react-solitaire subfolder of <a href="https://github.com/cndpost/react-samples/"> https://github.com/cndpost/react-samples/"> </a>. 
+the /react-solitaire subfolder of <a href="https://github.com/cndpost/react-samples/"> https://github.com/cndpost/react-samples </a>. 
 </li>
 </ul>
 <h2>Websites written in GOLANG </h2>
