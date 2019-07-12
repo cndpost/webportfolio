@@ -6,7 +6,7 @@ This includes:
 <h2>Websites written in Javascript and React Framework </h2>
 <ul>
 <li>
-<a href="webportfolio.n2k.net:8080" >Solitaire Game in Javascript and React </a>, its source code is at
+<a href="http://webportfolio.n2k.net:8080" >Solitaire Game in Javascript and React </a>, its source code is at
 the /react-solitaire subfolder of <a href="https://github.com/cndpost/react-samples/"> https://github.com/cndpost/react-samples/"> </a>. 
 </li>
 </ul>
