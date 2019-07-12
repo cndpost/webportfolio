@@ -17,6 +17,19 @@ the /react-solitaire subfolder of <a href="https://github.com/cndpost/react-samp
 the /chat-app subfolder of <a href="https://github.com/cndpost/readings/"> http://github.com/cndpost/readings </a>
 </li>
 </ul>
+<h2>My own company sites </h2>
+<ul>
+<li>
+<a href="http://www.n2k.net"> Network 2000 Inc </a>, Established 1997.
+</li>
+<li>
+<a href="http://www.realtybbs.com"> RealtyBBS - A demo site for showing rental properties </a>, Established 2007.
+</li>
+<li>
+<a href="http://www.mobycorp.com"> Moby Corp -- Next generation of email solutoins </a>, Established 2015.
+</li>
+
+</ul>
 
 
 
