@@ -13,7 +13,10 @@ the /react-solitaire subfolder of <a href="https://github.com/cndpost/react-samp
 <h2>Websites written in Javascript with static hosting </h2>
 <ul>
 <li>
-<a href="http://206.189.163.122:8081" >GO game with static hosting at github directly </a>,  its source code is at <a href="https://github.com/cndpost/react-go/"> http://github.com/cndpost/react-go </a>. Need mouse to work
+<a href="http://webportfolio.n2k.net:8081" >GO game with simple static hosting </a>,  its source code is at <a href="https://github.com/cndpost/react-go/"> http://github.com/cndpost/react-go </a>. Need mouse to work
+</li>
+<li>
+<a href="webportfolio.n2k.net:8086" >HTML5 game with simple static hosting </a>,  its source code is at <a href="https://github.com/cndpost/react-go/"> http://github.com/cndpost/hextris </a>. Works on desktop and Phone
 </li>
 </ul>
 <h2>Websites written in GOLANG </h2>
