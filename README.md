@@ -9,6 +9,12 @@ This includes:
 <a href="http://webportfolio.n2k.net:8080" >Solitaire Game in Javascript and React </a>, its source code is at
 the /react-solitaire subfolder of <a href="https://github.com/cndpost/react-samples/"> https://github.com/cndpost/react-samples </a>. 
 </li>
+<h2>Websites written in Javascript with static hosting </h2>
+<ul>
+<li>
+<a href="https://github.com/cndpost/react-go/blob/master/index.html" >GO game with static hosting at github directly </a>,  its source code is at <a href="https://github.com/cndpost/react-go/"> http://github.com/cndpost/react-go </a>. Need mouse to work
+</li>
+</ul>
 </ul>
 <h2>Websites written in GOLANG </h2>
 <ul>
@@ -17,6 +23,7 @@ the /react-solitaire subfolder of <a href="https://github.com/cndpost/react-samp
 the /chat-app subfolder of <a href="https://github.com/cndpost/readings/"> http://github.com/cndpost/readings </a>
 </li>
 </ul>
+
 <h2>My own company sites </h2>
 <ul>
 <li>
