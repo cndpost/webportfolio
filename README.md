@@ -13,13 +13,15 @@ the /react-solitaire subfolder of <a href="https://github.com/cndpost/react-samp
 <h2>Websites written in Javascript with static hosting </h2>
 <ul>
 <li>
-<a href="http://webportfolio.n2k.net:8081" >GO game with simple static hosting </a>,  its source code is at <a href="https://github.com/cndpost/react-go/"> http://github.com/cndpost/react-go </a>. Need mouse to work
+<a href="http://webportfolio.n2k.net:8081" >GO game with simple static hosting </a>,  its source code is at <a href="https://github.com/cndpost/react-go/"> http://github.com/cndpost/react-go </a>. Need mouse to work or not usable on Phones.   
+<br>
+As a AWS portfolio demo, I also have a more scalble hosting of this same game site on AWS S3 service at <href="https://go-game.s3-us-west-2.amazonaws.com/index.html"> Go-Game on AWS S3 service</a>
 </li>
 <li>
-<a href="http://webportfolio.n2k.net:8086" >HTML5 Hextris game with simple static hosting </a>,  its source code is at <a href="https://github.com/cndpost/hextris/"> http://github.com/cndpost/hextris </a>. Works on desktop and Phone
+<a href="http://webportfolio.n2k.net:8086" >HTML5 Hextris game with simple static hosting </a>,  its source code is at <a href="https://github.com/cndpost/hextris/"> http://github.com/cndpost/hextris </a>. 
 </li>
 <li>
-<a href="https://firepad.s3-us-west-2.amazonaws.com/code.html" >Online Code Interview Or Collaborator Site </a>,  its source code is at <a href="https://github.com/cndpost/firepad"> https://github.com/cndpost/firepad </a>. 
+<a href="https://firepad.s3-us-west-2.amazonaws.com/code.html" >Online Code Interview Or Collaborator Site </a>,  its source code is at <a href="https://github.com/cndpost/firepad"> https://github.com/cndpost/firepad </a>. This one is hosted on my AWS S3 service as one of my AWS portfolios demo.
 </li>
 
 </ul>
