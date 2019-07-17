@@ -16,7 +16,7 @@ the /react-solitaire subfolder of <a href="https://github.com/cndpost/react-samp
 <a href="http://webportfolio.n2k.net:8081" >GO game with simple static hosting </a>,  its source code is at <a href="https://github.com/cndpost/react-go/"> http://github.com/cndpost/react-go </a>. Need mouse to work
 </li>
 <li>
-<a href="webportfolio.n2k.net:8086" >HTML5 Hextris game with simple static hosting </a>,  its source code is at <a href="https://github.com/cndpost/hextris/"> http://github.com/cndpost/hextris </a>. Works on desktop and Phone
+<a href="http://webportfolio.n2k.net:8086" >HTML5 Hextris game with simple static hosting </a>,  its source code is at <a href="https://github.com/cndpost/hextris/"> http://github.com/cndpost/hextris </a>. Works on desktop and Phone
 </li>
 <li>
 <a href="https://firepad.s3-us-west-2.amazonaws.com/code.html" >Online Code Interview Or Collaborator Site </a>,  its source code is at <a href="https://github.com/cndpost/firepad"> https://github.com/cndpost/firepad </a>. 
