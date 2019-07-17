@@ -20,6 +20,11 @@ As a AWS portfolio demo, I also have a more scalble hosting of this same game si
 </li>
 <li>
 <a href="http://webportfolio.n2k.net:8086" >HTML5 Hextris game with simple static hosting </a>,  its source code is at <a href="https://github.com/cndpost/hextris/"> http://github.com/cndpost/hextris </a>. 
+<br>
+As a AWS portfolio demo, I also have a more scalble hosting of this same game site on AWS S3 service at 
+<a href="https://hextris.s3-us-west-2.amazonaws.com/index.html"> Hextris Game on AWS S3 service</a>
+
+
 </li>
 <li>
 <a href="https://firepad.s3-us-west-2.amazonaws.com/code.html" >Online Code Interview Or Collaborator Site </a>,  its source code is at <a href="https://github.com/cndpost/firepad"> https://github.com/cndpost/firepad </a>. This one is hosted on my AWS S3 service as one of my AWS portfolios demo.
