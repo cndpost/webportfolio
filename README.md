@@ -10,18 +10,18 @@ This includes:
 the /react-solitaire subfolder of <a href="https://github.com/cndpost/react-samples/"> https://github.com/cndpost/react-samples </a>. 
 </li>
 </ul>
-<h2>Websites written in Javascript with static hosting </h2>
+<h2>Websites written in Javascript with static hosting (as well as AWS hosting) </h2>
 <ul>
 <li>
 <a href="http://webportfolio.n2k.net:8081" >GO game with simple static hosting </a>,  its source code is at <a href="https://github.com/cndpost/react-go/"> http://github.com/cndpost/react-go </a>. Need mouse to work so not usable on Phones.   
 <br>
-As a AWS portfolio demo, I also have a more scalble hosting of this same game site on AWS S3 service at 
+As an AWS portfolio demo, I also have a more scalble hosting of this same game site on AWS S3 service at 
 <a href="https://go-game.s3-us-west-2.amazonaws.com/index.html"> Go-Game on AWS S3 service</a>
 </li>
 <li>
 <a href="http://webportfolio.n2k.net:8086" >HTML5 Hextris game with simple static hosting </a>,  its source code is at <a href="https://github.com/cndpost/hextris/"> http://github.com/cndpost/hextris </a>. 
 <br>
-As a AWS portfolio demo, I also have a more scalble hosting of this same game site on AWS S3 service at 
+As an AWS portfolio demo, I also have a more scalble hosting of this same game site on AWS S3 service at 
 <a href="https://hextris.s3-us-west-2.amazonaws.com/index.html"> Hextris Game on AWS S3 service</a>
 
 
