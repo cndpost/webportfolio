@@ -13,7 +13,7 @@ the /react-solitaire subfolder of <a href="https://github.com/cndpost/react-samp
 <h2>Websites written in Javascript with static hosting </h2>
 <ul>
 <li>
-<a href="http://webportfolio.n2k.net:8081" >GO game with simple static hosting </a>,  its source code is at <a href="https://github.com/cndpost/react-go/"> http://github.com/cndpost/react-go </a>. Need mouse to work or not usable on Phones.   
+<a href="http://webportfolio.n2k.net:8081" >GO game with simple static hosting </a>,  its source code is at <a href="https://github.com/cndpost/react-go/"> http://github.com/cndpost/react-go </a>. Need mouse to work so not usable on Phones.   
 <br>
 As a AWS portfolio demo, I also have a more scalble hosting of this same game site on AWS S3 service at <href="https://go-game.s3-us-west-2.amazonaws.com/index.html"> Go-Game on AWS S3 service</a>
 </li>
